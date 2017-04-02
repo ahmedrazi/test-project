@@ -1,0 +1,6 @@
+DEBUG:root:This is a debug message.  We should see this in the file.
+INFO:root:This is an info message.  We should see this in the file.
+WARNING:root:This is a warning message.  We should see this in the file.
+DEBUG:root:This is a debug message.  We should see this in the file.
+INFO:root:This is an info message.  We should see this in the file.
+WARNING:root:This is a warning message.  We should see this in the file.

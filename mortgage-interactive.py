@@ -1,3 +1,5 @@
+import sys
+
 # Find out how long to pay off a loan
 
 principal_amount = 300000
@@ -12,6 +14,7 @@ extra_payment_start_month = 1
 extra_payment_end_month =60
 month = 0
 """
+
 out = open('schedule.txt','w')
 
 print('{:>5s} {:>10s} {:>s} {:>10s}'.format('Month','Interest','Principal','Reminaing'),file=out)
